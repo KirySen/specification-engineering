@@ -6,3 +6,4 @@ const calc = (a: number, b: number): number => {
 }
 // console.log(calc(123, 22))
 calc(235, 55)
+export default calc
